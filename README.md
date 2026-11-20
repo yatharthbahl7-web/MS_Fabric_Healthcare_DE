@@ -153,10 +153,5 @@ Healthcare-Fabric-Project/
 7. Create a Direct Lake semantic model using the Gold tables and configure the table relationships.
 8. Open the Power BI report and connect it to the appropriate semantic model.
 
-## Data Source and Attribution
-
-- **Dataset:** [Maven Analytics — Hospital Patient Records](https://mavenanalytics.io/data-playground/hospital-patient-records)
-- **Original synthetic-data framework:** Synthea / SyntheticMass
-- **Academic citation:** Included in `dataset/citation.txt`
 
 This project uses synthetic data for learning and analytics demonstrations. It is not intended for clinical decision-making.
